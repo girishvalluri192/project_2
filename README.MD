@@ -9,3 +9,6 @@ using git bash from the terminal
 using the below commands
 
 git remote add oringin <.Link.>
+
+
+git push
